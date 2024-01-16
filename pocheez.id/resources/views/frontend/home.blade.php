@@ -10,15 +10,15 @@
                     <h2>Sekali hap, langsung mood up!</h2>
 
                     <!-- <div class="btns">
-                                                                              <a href="#menu" class="btn-menu animated fadeInUp scrollto"
-                                                                                >Our Menu</a
-                                                                              >
-                                                                              <a
-                                                                                href="#book-a-table"
-                                                                                class="btn-book animated fadeInUp scrollto"
-                                                                                >Book a Table</a
-                                                                              >
-                                                                            </div> -->
+                                                                                  <a href="#menu" class="btn-menu animated fadeInUp scrollto"
+                                                                                    >Our Menu</a
+                                                                                  >
+                                                                                  <a
+                                                                                    href="#book-a-table"
+                                                                                    class="btn-book animated fadeInUp scrollto"
+                                                                                    >Book a Table</a
+                                                                                  >
+                                                                                </div> -->
                 </div>
                 <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in"
                     data-aos-delay="200">
@@ -409,7 +409,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Haura Tsabitah</h4>
-                                    <span></span>
+                                    <span>0110222242</span>
                                 </div>
                             </div>
                         </div>
@@ -433,7 +433,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Aria Kristalinact</h4>
-                                    <span></span>
+                                    <span>0110222076</span>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +445,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Jamilatun Khoerunnisa</h4>
-                                    <span></span>
+                                    <span>0110222254</span>
                                 </div>
                             </div>
                         </div>
@@ -459,7 +459,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Faiz Abdullah</h4>
-                                    <span></span>
+                                    <span>0110222281</span>
                                 </div>
                             </div>
                         </div>
@@ -471,7 +471,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Aulia Rahman Mahayudin</h4>
-                                    <span></span>
+                                    <span>0110222018</span>
                                 </div>
                             </div>
                         </div>
@@ -483,7 +483,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Bagus Achmad</h4>
-                                    <span></span>
+                                    <span>0110222002</span>
                                 </div>
                             </div>
                         </div>
